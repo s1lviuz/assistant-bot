@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const verificaMensagem = (mensagem) => {
-    const regex =  new RegExp(/noticias/)
+    const regex =  new RegExp(/noticia/i)
     if (regex.test(mensagem)) {
         return true
     } else {
