@@ -7,7 +7,9 @@ O bot utiliza RegEx em JavaScript para entender o que foi enviado a ele via chat
 
 Se na mensagem conter os caracteres 'noticia' no caso insensitivo (maiusculo ou minusculo)
 
-Tras como resposta no seu atual desenvolvimento os titulos das noticias do site da Globo.com via WebScraping também com RegEx.
+Tras como resposta no seu atual desenvolvimento os titulos das noticias do site da Globo.com via WebScraping também com RegExp.
+
+- Saiba mais sobre as funções que utilizam RegExp nesse projeto: [Explicação das funções](https://github.com/s1lviuz/james-bot/blob/master/RegExp.md)
 
 ## Como utilizar
 
